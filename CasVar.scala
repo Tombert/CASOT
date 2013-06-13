@@ -1,0 +1,3 @@
+class CasVar extends CasObj {
+  
+}
