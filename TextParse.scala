@@ -7,6 +7,7 @@ object TextParse {
       val ln = readLine
       ok = ln != null
       if (ok) {
+	
 	println(ln)
       }
     }
