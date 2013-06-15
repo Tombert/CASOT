@@ -1,3 +1,4 @@
-class CasExp extends CasObj {
+class CasExp  {
   var myExp = new CasExp
+  
 }
