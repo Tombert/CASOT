@@ -1,6 +1,6 @@
 import scala.collection.mutable.ArrayBuffer
 
-class RealExpression {
-  var exponent = new CasExp
+class RealExpression (e:CasExp){
+  var exponent = e
   
 }

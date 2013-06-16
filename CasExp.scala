@@ -1,4 +1,4 @@
-class CasExp  {
-  var myExp = new CasExp
+class CasExp (e:Expression) {
+  var myExp:Expression = e
   
 }
