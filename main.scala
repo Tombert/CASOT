@@ -1,5 +1,5 @@
   object mainProgram {
-    var casObjectArray = List(new CasNum)
+    var casObjectArray = List(new Expression)
 
 
     def main(args: Array[String]) {
